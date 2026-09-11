@@ -262,3 +262,6 @@ This repository serves as the official landing page for WinSPMBT. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of WinSPMBT today!**
+
+---
+**Last updated:** 2026-09-11 06:58:39 UTC
